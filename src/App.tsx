@@ -143,7 +143,7 @@ function App() {
         <header className="flex justify-between items-center mb-8">
           <div className="flex items-center">
             <Dice5 size={32} className="text-purple-500 mr-2" />
-            <h1 className="text-2xl font-bold">Provably Fair Dice Game</h1>
+            <h1 className="text-2xl font-bold">Roll The Dice</h1>
           </div>
           <div className="flex items-center space-x-4">
             <div className="bg-gray-800 px-4 py-2 rounded-md">
